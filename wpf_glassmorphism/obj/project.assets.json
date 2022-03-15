@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hampz\\.nuget\\packages\\": {},
+    "C:\\Users\\Toodie\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hampz\\Desktop\\wpf_glassmorphism\\wpf_glassmorphism\\wpf_glassmorphism.csproj",
+      "projectUniqueName": "C:\\Users\\Toodie\\source\\repos\\sortcut_glassmorphism\\wpf_glassmorphism\\wpf_glassmorphism.csproj",
       "projectName": "wpf_glassmorphism",
-      "projectPath": "C:\\Users\\hampz\\Desktop\\wpf_glassmorphism\\wpf_glassmorphism\\wpf_glassmorphism.csproj",
-      "packagesPath": "C:\\Users\\hampz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hampz\\Desktop\\wpf_glassmorphism\\wpf_glassmorphism\\obj\\",
+      "projectPath": "C:\\Users\\Toodie\\source\\repos\\sortcut_glassmorphism\\wpf_glassmorphism\\wpf_glassmorphism.csproj",
+      "packagesPath": "C:\\Users\\Toodie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Toodie\\source\\repos\\sortcut_glassmorphism\\wpf_glassmorphism\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hampz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Toodie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -34,6 +34,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://aka.ms/maui-graphics-controls-nightly/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
